@@ -1,9 +1,9 @@
 <div align="center">
   
-  **Hi, I'm Marco, computer engineering student based in Padova, Italy.**
   
   <img src="https://github.com/MarvinTheMoodLifter/marvinthemoodlifter/blob/main/flower-light.svg"/>
   
+    Hi, I'm Marco, computer engineering student based in Padova, Italy.
 </div>
 
 ---
