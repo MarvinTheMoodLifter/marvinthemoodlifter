@@ -7,6 +7,10 @@
   Hi, I'm Marco. I'm studying Computer Engineering in Padova, Italy.
   ```
 
+  <details>
+
+  <summary><i></i></summary>
+    
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDNyeXdrbnQydmthZTI2aW91Z29lbHk3YzllNzg5ZW40NTZyc3F5ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/I3rbjijgss7D2Oab2A/giphy.gif" height="70"/>
 
   *Open source enthusiast, Raspberry Pi tinkerer and Linux lover!*
@@ -49,4 +53,8 @@
   <a href="https://fosstodon.org/@atheris"><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTBhajFjdGZndTlpZGJraTRtbDB3YWc1ZjhvdmphbnJ3dWFqY3BrMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/HIN5ynLxOQz6PVWqmA/giphy.gif" alt="Mastodon" height="60"/></a>
   <a href="https://www.linkedin.com/in/marco-perin-b0791727b"><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExenJnOGZ4NWFvdThvaDYweHdja3Vxc3Fpb2xld2U3MTNlZ2h5ejB2YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/yDM1kJZthxFPoGDdmq/giphy.gif" alt="LinkedIn" height="60"/></a><br>
   
+    
+  </details>
+
+ 
 </div>
