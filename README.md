@@ -9,7 +9,7 @@
 
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDNyeXdrbnQydmthZTI2aW91Z29lbHk3YzllNzg5ZW40NTZyc3F5ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/I3rbjijgss7D2Oab2A/giphy.gif" height="70"/>
 
-  *Open source enthusiast, Homelab tinkerer and Linux lover!*
+  ***Open source** enthusiast, **homelab** tinkerer and **Linux** lover!*
 
 ---
 <details>
