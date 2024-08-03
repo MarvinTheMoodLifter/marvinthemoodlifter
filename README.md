@@ -40,7 +40,7 @@
 
   ## <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTg0NGFoaGRxN3Q1N2lpM3htZGhxcHg2c3ZsdGlyM2ttejM0Z3E4byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/wVu7n7ixgy0ciiXtFh/giphy.gif" width="50"/> Learning and Goals
   
-  I am currently learning ***Rust***, experimenting with ***Elixir*** and improving my ***system administration*** skills with my homelab.
+  I am currently learning ***Rust***, experimenting with ***Elixir*** and improving my ***system administration*** skills through my homelab.
 
   <!-- [![Marco's GitHub stats](https://github-readme-stats.vercel.app/api?username=marvinthemoodlifter&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats) -->
 
