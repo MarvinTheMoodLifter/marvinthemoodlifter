@@ -7,8 +7,6 @@
   Hi, I'm Marco. I'm studying Computer Engineering in Padova, Italy.
   ```
 
-  ---
-
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDNyeXdrbnQydmthZTI2aW91Z29lbHk3YzllNzg5ZW40NTZyc3F5ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/I3rbjijgss7D2Oab2A/giphy.gif" height="70"/>
 
   *Open source enthusiast, Raspberry Pi tinkerer and Linux lover!*
@@ -39,7 +37,7 @@
 
   ## <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTg0NGFoaGRxN3Q1N2lpM3htZGhxcHg2c3ZsdGlyM2ttejM0Z3E4byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/wVu7n7ixgy0ciiXtFh/giphy.gif" width="50"/> Learning and Goals
   
-  I am currently learning **Rust**, experimenting with **Elixir** and improving my **system administration** skills with my homelab.
+  I am currently learning ***Rust***, experimenting with ***Elixir*** and improving my ***system administration*** skills with my homelab.
 
   <!-- [![Marco's GitHub stats](https://github-readme-stats.vercel.app/api?username=marvinthemoodlifter&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats) -->
 
