@@ -7,15 +7,14 @@
   Hi, I'm Marco. I'm studying Computer Engineering in Padova, Italy.
   ```
 
-  <details>
-
-  <summary><i></i></summary>
-    
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDNyeXdrbnQydmthZTI2aW91Z29lbHk3YzllNzg5ZW40NTZyc3F5ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/I3rbjijgss7D2Oab2A/giphy.gif" height="70"/>
 
   *Open source enthusiast, Raspberry Pi tinkerer and Linux lover!*
 
 ---
+<details>
+
+  <summary><i>More about me...</i></summary>
 
   ## <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWF0OXQya2NqdnU5aHNzbG83OXRiNmV0ZDNiYnZpOWttb2t4NnlyMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6KirhLJyR7oMcwgJQk/giphy.gif" height="70"/><br> Languages and tools I use
   
@@ -45,16 +44,16 @@
 
   <!-- [![Marco's GitHub stats](https://github-readme-stats.vercel.app/api?username=marvinthemoodlifter&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats) -->
 
-
+  </details>
 
 ---
 
-  <a href="mailto:perin.marco@proton.me"><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmVpOWRsMWExaTc5cTF5MmFuOTYyaG5waDZ5dHZ3bzltaDRmZW55eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/k3BaWknGtoURRum0hJ/giphy.gif" alt="Mail" height="50"/></a>
-  <a href="https://fosstodon.org/@atheris"><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTBhajFjdGZndTlpZGJraTRtbDB3YWc1ZjhvdmphbnJ3dWFqY3BrMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/HIN5ynLxOQz6PVWqmA/giphy.gif" alt="Mastodon" height="60"/></a>
-  <a href="https://www.linkedin.com/in/marco-perin-b0791727b"><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExenJnOGZ4NWFvdThvaDYweHdja3Vxc3Fpb2xld2U3MTNlZ2h5ejB2YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/yDM1kJZthxFPoGDdmq/giphy.gif" alt="LinkedIn" height="60"/></a><br>
+  <a href="mailto:perin.marco@proton.me"><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmVpOWRsMWExaTc5cTF5MmFuOTYyaG5waDZ5dHZ3bzltaDRmZW55eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/k3BaWknGtoURRum0hJ/giphy.gif" alt="Mail" height="40"/></a>
+  <a href="https://fosstodon.org/@atheris"><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTBhajFjdGZndTlpZGJraTRtbDB3YWc1ZjhvdmphbnJ3dWFqY3BrMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/HIN5ynLxOQz6PVWqmA/giphy.gif" alt="Mastodon" height="50"/></a>
+  <a href="https://www.linkedin.com/in/marco-perin-b0791727b"><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExenJnOGZ4NWFvdThvaDYweHdja3Vxc3Fpb2xld2U3MTNlZ2h5ejB2YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/yDM1kJZthxFPoGDdmq/giphy.gif" alt="LinkedIn" height="50"/></a><br>
   
     
-  </details>
+
 
  
 </div>
