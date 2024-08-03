@@ -15,8 +15,8 @@
 
 *Open source enthusiast, Raspberry Pi tinkerer and Linux lover!*
   
-  | Languages | Tools  |
-  |-----------|--------|
+  |                    Languages                      |                     Tools                   |
+  | ------------------------------------------------- | ------------------------------------------- |
   | Rust<br>C++<br>Java<br>Python<br>HTML/CSS<br>Bash | Docker<br>Linux<br>BSD<br>SSH<br>Git<br>Vim |
 
   
