@@ -4,7 +4,7 @@
   <img src="https://github.com/MarvinTheMoodLifter/marvinthemoodlifter/blob/main/flower-light.svg"/>
 
   ```
-  Hi, I'm Marco. I'm studying Computer Engineering in Padova, Italy.
+  Hi, I'm Marco. I'm studying Computer Engineering in Padua, Italy.
   ```
 
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDNyeXdrbnQydmthZTI2aW91Z29lbHk3YzllNzg5ZW40NTZyc3F5ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/I3rbjijgss7D2Oab2A/giphy.gif" height="70"/>
