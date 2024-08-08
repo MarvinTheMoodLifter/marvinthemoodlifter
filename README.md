@@ -30,7 +30,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" height="30" alt="Docker"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original-wordmark.svg" height="30" alt="SSH"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" height="30" alt="Git"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" height="30" alt="Vim"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/OpenZFS_logo.svg/120px-OpenZFS_logo.svg.png" height="30" alt="OpenZFS"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/neovim/neovim-original.svg" height="30" alt="Neovim"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/astro/astro-original.svg" height="30" alt="Astro"/>
   <br>
