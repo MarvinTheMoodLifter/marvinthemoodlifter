@@ -10,6 +10,10 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDNyeXdrbnQydmthZTI2aW91Z29lbHk3YzllNzg5ZW40NTZyc3F5ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/I3rbjijgss7D2Oab2A/giphy.gif" height="70"/>
 
   ***Open source** enthusiast, **homelab** tinkerer and **Linux** lover!*
+  
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWNmdm5tcGo5anEzbGJtOGoxajU0bzI5bndudGVpNHdlcng4bGVrYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/N3cmkFJ5T8hSle60zA/giphy.gif" alt="Codeberg" height="60"/>
+  
+  Discover my latest projects on <a href="https://codeberg.org/mushling">Codeberg!</a>
 
 ---
 <details>
@@ -48,6 +52,7 @@
 
 ---
 
+  
   <a href="mailto:perin.marco@proton.me"><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmVpOWRsMWExaTc5cTF5MmFuOTYyaG5waDZ5dHZ3bzltaDRmZW55eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/k3BaWknGtoURRum0hJ/giphy.gif" alt="Mail" height="40"/></a>
   <a href="https://www.linkedin.com/in/marco-perin-b0791727b"><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExenJnOGZ4NWFvdThvaDYweHdja3Vxc3Fpb2xld2U3MTNlZ2h5ejB2YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/yDM1kJZthxFPoGDdmq/giphy.gif" alt="LinkedIn" height="45"/></a>
   <a href="https://fosstodon.org/@atheris"><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTBhajFjdGZndTlpZGJraTRtbDB3YWc1ZjhvdmphbnJ3dWFqY3BrMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/HIN5ynLxOQz6PVWqmA/giphy.gif" alt="Mastodon" height="50"/></a>
