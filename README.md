@@ -40,11 +40,13 @@
   <br>
   <br>
   
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHl3NG1vaDBibDlkeGphNHR6djlyeHJyc2xmaHQ3N3FxNGdiZ3h0biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/qlDjRipF0GwezDW2sV/giphy.gif" height="150"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2l5cmN6Y2d3NHpkMjJjdWV5YjJ4OTJ1bG0ydW8wY2dheXJvbm10dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/u9K8PUFussrbFbaze0/giphy.gif" height="80"/>
 
-  ## <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTg0NGFoaGRxN3Q1N2lpM3htZGhxcHg2c3ZsdGlyM2ttejM0Z3E4byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/wVu7n7ixgy0ciiXtFh/giphy.gif" width="50"/> Learning and Goals
-  
-  I am currently learning ***Rust***, experimenting with ***Elixir*** and improving my ***system administration*** skills through my homelab.
+  ## Current Adventures
+
+  Building stuff with Rust 🦀 and tinkering with my homelab. Got a shiny new home server project coming up to play with Proxmox, Terraform, and Ansible.
+
+  Also dipping my toes into Elixir and Zig when time allows!
 
   <!-- [![Marco's GitHub stats](https://github-readme-stats.vercel.app/api?username=marvinthemoodlifter&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats) -->
 
