@@ -27,7 +27,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" height="30" alt="Java"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/elixir/elixir-original.svg" height="30" alt="Elixir"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" height="30" alt="HTML"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" height="30" alt="CSS"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Official_CSS_Logo.svg/120px-Official_CSS_Logo.svg.png" height="30" alt="CSS"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" height="30" alt="Python"/>
   <br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" height="30" alt="Linux"/>
