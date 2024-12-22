@@ -46,7 +46,7 @@
 
   Building stuff with Rust 🦀 and tinkering with my homelab. Got a shiny new home server project coming up to play with Proxmox, Terraform, and Ansible.
 
-  Also dipping my toes into Elixir and Zig when time allows!
+  Also dipping my toes into Elixir and Go when time allows!
 
   <!-- [![Marco's GitHub stats](https://github-readme-stats.vercel.app/api?username=marvinthemoodlifter&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats) -->
 
