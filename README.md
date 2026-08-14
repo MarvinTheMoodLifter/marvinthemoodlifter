@@ -56,8 +56,8 @@
 
   
   <a href="mailto:perin.marco@proton.me"><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmVpOWRsMWExaTc5cTF5MmFuOTYyaG5waDZ5dHZ3bzltaDRmZW55eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/k3BaWknGtoURRum0hJ/giphy.gif" alt="Mail" height="40"/></a>
-  <a href="https://www.linkedin.com/in/marco-perin-b0791727b"><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExenJnOGZ4NWFvdThvaDYweHdja3Vxc3Fpb2xld2U3MTNlZ2h5ejB2YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/yDM1kJZthxFPoGDdmq/giphy.gif" alt="LinkedIn" height="45"/></a>
-  <a href="https://mastodon.social/@mushling"><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTBhajFjdGZndTlpZGJraTRtbDB3YWc1ZjhvdmphbnJ3dWFqY3BrMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/HIN5ynLxOQz6PVWqmA/giphy.gif" alt="Mastodon" height="50"/></a>
+  <a href="https://www.linkedin.com/in/marco-perin-b0791727b"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzB5Zm5mdTl1cWUyM2JsNGNibjVraHpnM3ZidXY1N2w2cW95anZvdSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/HQTYdpx1yhxWpugAi2/giphy.gif" alt="LinkedIn" height="45"/></a>
+  <a href="https://social.mushling.org/@mush"><img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bjN0NXVxZmUzcTVrdHBndzVmd3oxeHl5djhwbGpsMGpranhkY3EyZCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/3og0IKxeRO7iXq2yhG/giphy.gif" alt="Fediverse" height="50"/></a>
 <br>
   
 </div>
